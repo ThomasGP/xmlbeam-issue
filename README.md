@@ -1,2 +1,2 @@
 # xmlbeam-issue
-Repository to shwocase xmlbeam issue #46
+Repository to showcase xmlbeam issue #46
